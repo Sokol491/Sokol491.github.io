@@ -2,7 +2,7 @@
   "name": "boilerplate",
   "version": "1.0.0",
   "description": "",
-  "author": "lafin",
+  "author": "Sokol491",
   "license": "MIT",
   "scripts": {
     "start": "npm run dev",
