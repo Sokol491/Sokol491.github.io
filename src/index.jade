@@ -44,10 +44,10 @@ html(lang="en")
         section.card(itemscope="", itemtype="http://schema.org/Person")
           h1.card__name(itemprop="name") SOKOL491
         
-        :php
-    | $value = 10;
-    | $computed_value += 100;
-    | print $computed_value;
+          :php
+            | $value = 10;
+            | $computed_value += 100;
+            | print $computed_value;
           
           p.card__position(itemprop="jobTitle") Full Stack Web Developer
           p.card__description(itemprop="description")
